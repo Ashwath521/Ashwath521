@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Ashwath M N, a passionate Full Stack web developer and a software engineer from India. My passion for Building awesome webpages,always i involving with tecnolgoies,I am always looking learn new technologies.
+Hi, I'm Ashwath M N,My background is in electrical and electronics engineering. I love coding and creating beautiful user oriented web application in frontend  which make life easier for people. I am excited to contribute in a meaningful way to an awesome company.my favorite technology is HTML & CSS3 & JAVASCRIPT & REACT JS .I Built small 8 front end webpages , and currently learning how to use more style in CSS & I learn JavaScript & React JS Functionalities how to use more in real time projects.
 <!--
 **Ashwath521/Ashwath521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
