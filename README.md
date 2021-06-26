@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Ashwath M N,My background is in electrical and electronics engineering. I love coding and creating beautiful user oriented web application in frontend  which make life easier for people. I am excited to contribute in a meaningful way to an awesome company.my favorite technology is HTML & CSS3 & JAVASCRIPT & REACT JS .I Built small 8 front end webpages , and currently learning how to use more style in CSS & I learn JavaScript & React JS Functionalities how to use more in real time projects.
+Hi, I'm Ashwath M N,My background is in electrical and electronics engineering. I love coding and creating beautiful user oriented web application in frontend  which makes life easier for people. I am excited to contribute in a meaningful way to an amazing company. My favorite technology is HTML5 & CSS3 & JAVASCRIPT & REACT JS .I have built small 8 front end webpages , and currently learning how to use more style in CSS & I learnt JavaScript & React JS Functionalities in order to use them in real time projects.
 <!--
 **Ashwath521/Ashwath521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
