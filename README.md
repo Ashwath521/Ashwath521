@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [Portfolio][website] 👋
+### Hi there, I'm Ashwath [website] 👋
 
 [![Website]()](https://ashwathportfolio.netlify.app/)
 
