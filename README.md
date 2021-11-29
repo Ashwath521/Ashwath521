@@ -38,4 +38,4 @@ Basically, I am an electrical and electronics engineering. I love coding and cre
 [linkedin]: https://www.linkedin.com/in/ashwath-m-n-9278421a0/
 [twitter]: https://twitter.com/home
 
-https://www.drupal.org/files/project-images/nextjs-drupal.jpg
+
