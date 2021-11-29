@@ -1,6 +1,4 @@
-### Hi there, I'm Ashwath 👋
-
-[Portfolio](https://ashwathportfolio.netlify.app/)
+### Hi there, I'm Ashwath 👋[Portfolio](https://ashwathportfolio.netlify.app/)
 
 ## I'm a Automation Engineer,Weekend Internship guy, web Developer, and Teacher!!
 
