@@ -3,7 +3,7 @@
 ### 👨‍💻Bio :- 
 Basically, I am an electrical and electronics engineering. I love coding and creating beautiful user-oriented web applications in the front end which makes life easier for      people. I am excited to contribute in a meaningful way to an amazing company. My favorite technology is HTML5 & CSS3 & JAVASCRIPT & REACT JS .I have built small 8 front-end webpages, and currently learning how to use more style in CSS & I learnt JavaScript & React JS Functionalities in order to use them in real-time projects.
 
-## I'm a Software Engineer,Lazy React Developer!!
+## I'm a Software Engineer || Lazy React Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for Frontend developer Opportunity
