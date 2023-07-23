@@ -7,7 +7,7 @@ Basically, I am an electrical and electronics engineering. I love coding and cre
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for Frontend developer Opportunity
-- 🥅 2021 Goals: Learn Front Technologies & Contribute to Real world Projects
+- 🥅 2020 Goals: Learn Front Technologies & Contribute to Real world Projects
 - ⚡ Fun fact: I love to Code and play Cricket / Meditation
 
 ### Connect with me:
